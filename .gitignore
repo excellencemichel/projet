@@ -1,5 +1,5 @@
 env/
-lacal_settings.py
+local_settings.py
 *.pyc
 .env
 .git
